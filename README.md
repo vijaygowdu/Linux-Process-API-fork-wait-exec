@@ -47,7 +47,7 @@ int main(void)
 ```
 
 ## OUTPUT
-[pid](./pid.png)
+![pid](./pid.png)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
@@ -78,7 +78,7 @@ int main() {
 ```
 ## OUTPUT
 
-[gc](./fc.png)
+![output](./fc.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -111,7 +111,7 @@ int main() {
 }
 ```
 ## output
-[ec](./ec.png)
+![output](./ec.png)
 
 # RESULT:
 The programs are executed successfully.
